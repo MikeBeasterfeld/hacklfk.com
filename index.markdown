@@ -3,4 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Lawrence Hackathon
 ---
+
+# Lawrence Hackathon
+
+## Coming soon
+
