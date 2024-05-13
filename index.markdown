@@ -8,5 +8,9 @@ title: Lawrence Hackathon
 
 # Lawrence Hackathon
 
-## Coming soon
+## Coming mid-September 2024
+
+&nbsp;
+
+<script async data-uid="2648d74dc2" src="https://lawrence-hackathon.ck.page/2648d74dc2/index.js"></script>
 
