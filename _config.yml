@@ -28,6 +28,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# author settings
+author:
+  name: Lawrence Hackathon
+  email: mike.beasterfeld@gmail.com
+
 # Build settings
 theme: cvless
 plugins:
